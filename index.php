@@ -1,5 +1,5 @@
 <?php 
-$identificacion = '0923896591';
+$identificacion = '0923896528';
 
 function validar_identificacion_ecuador($identificacion) {
     // Eliminar cualquier caracter que no sea dígito
